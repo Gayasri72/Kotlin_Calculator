@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="label_num1">Number 1</string>
+    <string name="label_num2">Number 2</string>
+    <string name="edt_num1">23</string>
+    <string name="edt_num2">12</string>
+    <string name="btn_plus">+</string>
+    <string name="btn_minus">-</string>
+    <string name="btn_multiply">*</string>
+    <string name="btn_divide">/</string>
+</resources>
